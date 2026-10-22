@@ -10,5 +10,5 @@ Mystic Client 客户端仅在 Mystic Network 中以内部整合包的形式分�
 
 END
 -
-MysticSDK was developed by rabvat w/ ♥,<br>
+MysticBundle was developed by rabvat w/ ♥,<br>
 Oct, 2026. Team MysticMC
